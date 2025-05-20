@@ -1,0 +1,25 @@
+[
+    {
+        "model":"core.Role",
+        "pk":1,
+        "fields":{
+            "name":"main_admin"
+        }
+
+    },
+    {
+        "model":"core.Role",
+        "pk":2,
+        "fields":{
+            "name":"admin"
+        }
+    },
+    {
+        "model":"core.Role",
+        "pk":3,
+        "fields":{
+            "name":"user"
+        }
+    } 
+
+]
